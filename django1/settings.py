@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-gjnn$xp)*j-3hom*@a7==15ovy6ehmeospibwzbt&+kh6zpbpc
 #Debug com valor falso o modo é produção(pronto para uso, publicado)
 DEBUG = False
 
-ALLOWED_HOSTS = ['*'] #
+ALLOWED_HOSTS = ['django1-vi-a295f737a2d7.herokuapp.com'] #
 
 
 # Application definition
